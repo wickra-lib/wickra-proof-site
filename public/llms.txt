@@ -1,0 +1,12 @@
+# Wickra Proof
+
+> Turn a (spec, data) pair into a deterministic report and a canonical blake3 hash that anyone can recompute byte-for-byte in ten languages.
+
+Wickra Proof takes a strategy specification and a dataset, recomputes the backtest deterministically, and emits the report together with the blake3 hash of its canonical form. Canonicalisation — sorted keys, quantised floats — is what makes the digest identical across Rust, Python, Node.js, WASM, C, C++, C#, Go, Java and R. Released under the MIT OR Apache-2.0 license.
+
+## Source
+- [GitHub](https://github.com/wickra-lib/wickra-proof): Source, issues, and releases.
+
+## Ecosystem
+- [Wickra](https://wickra.org): The core streaming-indicator library the ecosystem is built on.
+- [Docs](https://docs.wickra.org): Documentation for the Wickra core.
