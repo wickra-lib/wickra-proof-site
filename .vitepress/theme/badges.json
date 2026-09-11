@@ -10,7 +10,7 @@
     "alt": "CodeQL",
     "href": "https://github.com/wickra-lib/wickra-proof/actions/workflows/codeql.yml",
     "file": "/badges/codeql.svg",
-    "width": 113,
+    "width": 121,
     "height": 20
   },
   {
@@ -31,7 +31,7 @@
     "alt": "OpenSSF Scorecard",
     "href": "https://scorecard.dev/viewer/?uri=github.com/wickra-lib/wickra-proof",
     "file": "/badges/scorecard.svg",
-    "width": 126,
+    "width": 136,
     "height": 20
   },
   {
