@@ -21,6 +21,13 @@
     "height": 20
   },
   {
+    "alt": "GitHub release",
+    "href": "https://github.com/wickra-lib/wickra-proof/releases/latest",
+    "file": "/badges/release.svg",
+    "width": 111,
+    "height": 20
+  },
+  {
     "alt": "PyPI",
     "href": "https://pypi.org/project/wickra-proof/",
     "file": "/badges/pypi.svg",
