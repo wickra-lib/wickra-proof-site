@@ -6,7 +6,7 @@
 <dependency>
   <groupId>org.wickra</groupId>
   <artifactId>wickra-proof</artifactId>
-  <version>0.1.3</version>
+  <version>0.1.4</version>
 </dependency>
 ```
 
