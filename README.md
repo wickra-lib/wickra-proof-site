@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://proof.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.webp?v=514-7" alt="Wickra Proof — proof-of-Backtest: a deterministic (spec, data) → report + blake3 hash, recomputable byte-for-byte in ten languages" width="100%"></a>
+  <a href="https://proof.wickra.org"><img src="https://raw.githubusercontent.com/wickra-lib/.github/main/profile/wickra-banner.svg?v=514-8" alt="Wickra Proof — proof-of-Backtest: a deterministic (spec, data) → report + blake3 hash, recomputable byte-for-byte in ten languages" width="100%"></a>
 </p>
 
 [![Built on Wickra](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-proof-site/built-on.svg)](https://github.com/wickra-lib/wickra)
