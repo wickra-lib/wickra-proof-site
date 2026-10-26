@@ -30,7 +30,7 @@ features:
     details: "A strategy is a JSON document, so what was proved is exactly what can be handed to someone else and run again."
   - icon: ⚙️
     title: "Built on the core"
-    details: "The same deterministic engine and the same 514 indicators as the rest of the stack — the proof is over the arithmetic everything else already shares."
+    details: "The same deterministic engine and the same 495 indicators as the rest of the stack — the proof is over the arithmetic everything else already shares."
 ---
 
 <script setup>

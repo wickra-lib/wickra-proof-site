@@ -1,7 +1,7 @@
 {
   "name": "Wickra Proof",
   "short_name": "Wickra Proof",
-  "description": "Parallel multi-symbol screening over 514 streaming indicators.",
+  "description": "Proof-of-Backtest: a deterministic (spec, data) → report + blake3 hash, recomputable byte-for-byte in ten languages.",
   "icons": [
     { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
